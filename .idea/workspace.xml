@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d8c05de-4255-490d-b6be-9c056012324f" name="Changes" comment="Functional">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9d8c05de-4255-490d-b6be-9c056012324f" name="Changes" comment="Renamed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FP01Functional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FP01Functional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FP01Structure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FP01Structure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FP01Structured.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FP01Structured.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/FP01Functional.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -76,8 +78,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670890915225</updated>
-      <workItem from="1670890917090" duration="1812000" />
+      <workItem from="1670890917090" duration="2979000" />
     </task>
+    <task id="LOCAL-00001" summary="Functional">
+      <created>1670892752450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670892752450</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Renamed">
+      <created>1670892929798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670892929798</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Functional" />
-    <option name="LAST_COMMIT_MESSAGE" value="Functional" />
+    <MESSAGE value="Renamed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed" />
   </component>
 </project>
