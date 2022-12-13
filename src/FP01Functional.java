@@ -8,14 +8,15 @@ public class FP01Functional {
         printAllEvenNumbersInFunctional(numbers);
     }
 
-    private static boolean isEven(int number) {
-        return number % 2 == 0;
-    }
+//    private static boolean isEven(int number) {
+//        return number % 2 == 0;
+//    }
 
     private static void printAllEvenNumbersInFunctional(List<Integer> numbers) {
         numbers
                 .stream()
-                .filter(FP01Functional::isEven)//filter only even numbers
+                //.filter(FP01Functional::isEven)//filter only even numbers
+                .filter(number-> number%2==0)//lambda
                 .forEach(System.out::println);//Method reference
     }
 
