@@ -46,9 +46,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="FP01Structure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FP01Structure" />
+  <component name="RunManager" selected="Application.FP01Functional">
+    <configuration name="FP01Functional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FP01Functional" />
+      <module name="functional-programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FP01Structured" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FP01Structured" />
       <module name="functional-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,7 +63,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FP01Structure" />
+        <item itemvalue="Application.FP01Functional" />
+        <item itemvalue="Application.FP01Structured" />
       </list>
     </recent_temporary>
   </component>

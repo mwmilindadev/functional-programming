@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class FP01Structure {
+public class FP01Structured {
     public static void main(String[] args) {
         printAllNumbersStructure(List.of(12, 15, 9, 2, 4, 5, 3, 1));
     }
