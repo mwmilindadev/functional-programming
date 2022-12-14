@@ -10,6 +10,7 @@ public class FP01Exersices {
 
         //courses.stream().forEach(System.out::println);
         //courses.stream().filter(course -> course.contains("Spring")).forEach(System.out::println);
+        // add length
         courses.stream().filter(course-> course.length()>=4).forEach(System.out::println);
 
     }
