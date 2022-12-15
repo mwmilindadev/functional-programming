@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d8c05de-4255-490d-b6be-9c056012324f" name="Changes" comment="Add Comment">
+    <list default="true" id="9d8c05de-4255-490d-b6be-9c056012324f" name="Changes" comment="Add Lambda">
+      <change afterPath="$PROJECT_DIR$/src/FP02Exersices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FP02Functional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FP02Structured.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FP01Exersices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FP01Exersices.java" afterDir="false" />
     </list>
@@ -32,22 +35,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FP01Exersices">
+  <component name="RunManager" selected="Application.FP02Functional">
     <configuration name="FP01Exersices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FP01Exersices" />
       <module name="functional-programming" />
@@ -62,8 +65,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FP01Structured" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FP01Structured" />
+    <configuration name="FP02Exersices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FP02Exersices" />
+      <module name="functional-programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FP02Functional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FP02Functional" />
+      <module name="functional-programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FP02Structured" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FP02Structured" />
       <module name="functional-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,9 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FP02Functional" />
+        <item itemvalue="Application.FP02Exersices" />
+        <item itemvalue="Application.FP02Structured" />
         <item itemvalue="Application.FP01Exersices" />
         <item itemvalue="Application.FP01Functional" />
-        <item itemvalue="Application.FP01Structured" />
       </list>
     </recent_temporary>
   </component>
@@ -86,6 +105,8 @@
       <option name="presentableId" value="Default" />
       <updated>1670890915225</updated>
       <workItem from="1670890917090" duration="4726000" />
+      <workItem from="1670976024627" duration="4739000" />
+      <workItem from="1671063827919" duration="2001000" />
     </task>
     <task id="LOCAL-00001" summary="Functional">
       <created>1670892752450</created>
@@ -122,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670895623943</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add course">
+      <created>1670976213124</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670976213124</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +173,8 @@
     <MESSAGE value="Added Sream" />
     <MESSAGE value="Create Exersice" />
     <MESSAGE value="Add Comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Comment" />
+    <MESSAGE value="Add course" />
+    <MESSAGE value="Add Lambda" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Lambda" />
   </component>
 </project>
