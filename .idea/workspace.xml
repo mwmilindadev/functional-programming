@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d8c05de-4255-490d-b6be-9c056012324f" name="Changes" comment="Add Lambda">
-      <change afterPath="$PROJECT_DIR$/src/FP02Exersices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FP02Functional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FP02Structured.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FP03FunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FP03FunctionalInterfaceExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FP03FunctionalInterfaceExercises2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FP01Exersices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FP01Exersices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,21 +49,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FP02Functional">
-    <configuration name="FP01Exersices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FP01Exersices" />
-      <module name="functional-programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FP01Functional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FP01Functional" />
-      <module name="functional-programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FP03FunctionalInterfaceExercises">
     <configuration name="FP02Exersices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FP02Exersices" />
       <module name="functional-programming" />
@@ -86,13 +71,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FP03FunctionalInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FP03FunctionalInterface" />
+      <module name="functional-programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FP03FunctionalInterfaceExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FP03FunctionalInterfaceExercises" />
+      <module name="functional-programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FP03FunctionalInterfaceExercises" />
+        <item itemvalue="Application.FP03FunctionalInterface" />
         <item itemvalue="Application.FP02Functional" />
         <item itemvalue="Application.FP02Exersices" />
         <item itemvalue="Application.FP02Structured" />
-        <item itemvalue="Application.FP01Exersices" />
-        <item itemvalue="Application.FP01Functional" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +105,11 @@
       <updated>1670890915225</updated>
       <workItem from="1670890917090" duration="4726000" />
       <workItem from="1670976024627" duration="4739000" />
-      <workItem from="1671063827919" duration="2001000" />
+      <workItem from="1671063827919" duration="2806000" />
+      <workItem from="1671412486584" duration="1519000" />
+      <workItem from="1671495867799" duration="2736000" />
+      <workItem from="1672708133760" duration="2380000" />
+      <workItem from="1673399079976" duration="1292000" />
     </task>
     <task id="LOCAL-00001" summary="Functional">
       <created>1670892752450</created>
@@ -150,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670976213124</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add Lambda">
+      <created>1671066625815</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671066625815</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
